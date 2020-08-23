@@ -1,20 +1,6 @@
-pedro san martin perez
-tengo 24 años
+Definicion, error, defecto(defect), fallo(failure)
 
-mañana hablaremos de su vida laboral
-
-el lunes se tiene una evaluacion 
-
-
-git gestor de versiones de proyecto
-
-causas de los fallos (failures) de software
-
-un defecto es introducido en el codigo de software, en los datos
-o en los parametros de configuracion
-
-causas del error humano:
-plazos, demandas excesivas debidas a lo complejida, distracciones 
-
-
+-Error (ieee 610)
+Accion humana que produce un resultado incorrecto por ej. 
+un error de programacion.
 

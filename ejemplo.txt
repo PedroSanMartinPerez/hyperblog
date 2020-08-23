@@ -9,4 +9,7 @@ desperfecto en un componente o sistema que puede ser una causa por lo cual
 el sistema o componente no logre llevar o cabo su funcion espesifica,
 por ejemplo. sentencia o definicion de datos incorrectas.
  
-
+Fallo(failure)
+Manifestacion fisica o funcional de un defect, si un defecto es encontrado durante la
+ejecucion de una aplicacion puede producir un fallo.
+Desviacion de un componente o sistema respecto al prestacion, el servicio o resultado esperado

@@ -8,3 +8,13 @@ el lunes se tiene una evaluacion
 
 git gestor de versiones de proyecto
 
+causas de los fallos (failures) de software
+
+un defecto es introducido en el codigo de software, en los datos
+o en los parametros de configuracion
+
+causas del error humano:
+plazos, demandas excesivas debidas a lo complejida, distracciones 
+
+
+

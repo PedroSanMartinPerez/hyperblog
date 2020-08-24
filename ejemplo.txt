@@ -37,3 +37,10 @@ Tecnicas de caja negra
 	Transicion de estado
 	Tablas de decision
 
+Tecnicas de caja blanca
+	Cobertura de sentecia 
+	Cobertura de desicion 
+	Cobertura de camino
+	Cobertura de condicion 
+ 
+

@@ -22,3 +22,9 @@ Especifica criterios para evaluar la aprobacion de un servicio de la tecnologia 
 		Mantenimiento
 		Seguridad
 		Usabilidad
+
+Severidad de defectos 
+	Baja
+	Intermedia
+	Alta
+	Critica

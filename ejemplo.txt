@@ -11,3 +11,14 @@ se clasifica en:
 	De negocio
 	originados en aspectos regulatorios
 	De seguridad
+
+Que es Requerimiento no funcional?
+
+Especifica criterios para evaluar la aprobacion de un servicio de la tecnologia de informacion
+	Tipos:
+		Comprobabilidad 
+		Disponibilidad
+		Escalabilidad
+		Mantenimiento
+		Seguridad
+		Usabilidad

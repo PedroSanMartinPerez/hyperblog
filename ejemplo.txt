@@ -1,3 +1,13 @@
 Que es un  requerimiento ?
 
 "Descripciones detalladas y precisas de la funcionalidad del sistema y de sus restricciones"
+
+Que es un requerimiento funcional?
+
+Son aquellos que describen cualquier actividad que este debe realizar, comportamiento o funcion
+particular del sistema 
+
+se clasifica en:
+	De negocio
+	originados en aspectos regulatorios
+	De seguridad

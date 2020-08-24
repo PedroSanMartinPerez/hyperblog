@@ -28,3 +28,12 @@ Severidad de defectos
 	Intermedia
 	Alta
 	Critica
+
+
+
+Tecnicas de caja negra
+	Clases de equivalencia
+	Valores limite
+	Transicion de estado
+	Tablas de decision
+
